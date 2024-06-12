@@ -9,6 +9,4 @@
 
 ## Chinese Specific
 
-
-
 [[Extended Essay Advice]]
