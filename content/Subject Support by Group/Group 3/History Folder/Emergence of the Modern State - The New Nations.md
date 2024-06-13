@@ -10,11 +10,12 @@ Modernization also led to the growth of positivism and [[Social Darwinism]]. Pos
 
 In the rush to industrialize and modernize, a new society had to be created without Spain or Portugal. Important was the gradual growth of the "[[folk culture]]" of the "folk societies". "Folk Culture" was a common way of life shared by ordinary people (not elite or wealthy). It was based on common language, heritage, beliefs, and means of facing daily life. It instilled a feeling of unity, loyalty and tradition within the folk. They formed self-sufficient folk societies with a well-defined moral order. In time, each new country had to develop its own customs, traditions and conventions. Each country had to define what it was to be both an American or a Chilean etc. The concept of nativism would slowly emerge.
 
-Over the next one hundred years, individual countries emerged with their own unique culture; however, they had common characteristics: 
-1. Republican governments with strong executives 
-2. High degree of centralization within a federal system 
-3. Restrictive suffrage 
-4. Presence of a strong military 
-5. Endorses capitalism and socialism 
-6. Unequal distribution of wealth 
+Over the next one hundred years, individual countries emerged with their own unique culture; however, they had common characteristics:
+
+1. Republican governments with strong executives
+2. High degree of centralization within a federal system
+3. Restrictive suffrage
+4. Presence of a strong military
+5. Endorses capitalism and socialism
+6. Unequal distribution of wealth
 7. Government for the economic elite at the expense of the poor

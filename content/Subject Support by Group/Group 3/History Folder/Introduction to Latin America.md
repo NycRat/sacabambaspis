@@ -1,19 +1,19 @@
 # Topics
 
-1) Introduction to Central and South America
-2) Early Civilizations: Inca, Maya, Olmec, Aztec, Chavia, Moche, Nazca, Adena, Anasazi
-3) Arrival of Europeans
-4) Arrival of the Spanish
-5) Spanish and Portuguese Colonization
-6) Spanish Empire
-7) Social Classes
-8) Role of the Church
-9) Slavery in Latin America
-10) End of the Spanish Empire
-11) Reform, Crisis. and Independence
-12) Independence in Latin America
-13) Independence in Brazil
-14) Liberation Of Latin America
+1. Introduction to Central and South America
+2. Early Civilizations: Inca, Maya, Olmec, Aztec, Chavia, Moche, Nazca, Adena, Anasazi
+3. Arrival of Europeans
+4. Arrival of the Spanish
+5. Spanish and Portuguese Colonization
+6. Spanish Empire
+7. Social Classes
+8. Role of the Church
+9. Slavery in Latin America
+10. End of the Spanish Empire
+11. Reform, Crisis. and Independence
+12. Independence in Latin America
+13. Independence in Brazil
+14. Liberation Of Latin America
 
 ## Readings
 

@@ -1,9 +1,9 @@
 Subsistence/Sustainability -> Commodity
+
 - Capitalism
 - Consumers
 -
 
-Expansionary Capitalism 
+Expansionary Capitalism
 
 North-South Flow = South supports the north
-

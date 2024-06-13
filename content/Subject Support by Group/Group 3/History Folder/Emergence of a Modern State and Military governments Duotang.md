@@ -10,7 +10,7 @@
 8. Brazil
 9. Panama
 10. Peru
-11.  Conclusions to Military Dictatorships
+11. Conclusions to Military Dictatorships
 
 # Terms
 
@@ -47,13 +47,14 @@
 - "Trickle Down" Theory
 
 # Readings:
+
 - Burns: Ch.5 (p . 127-168 //pp. 131 168)
-	pp. 14-15
-	pp. 84-91
-	pp. 99-107/110
-	pp. 115-126/112-130
-	pp. 170-177/178
-	pp. 231-232/243-244
+  pp. 14-15
+  pp. 84-91
+  pp. 99-107/110
+  pp. 115-126/112-130
+  pp. 170-177/178
+  pp. 231-232/243-244
 - Ch 10 (p. 295-341)// Ch. 10 & 11 (pp. 286-333)
 - Williamson: p. 99. 108
 

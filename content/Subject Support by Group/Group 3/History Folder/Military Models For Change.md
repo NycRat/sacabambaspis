@@ -1,4 +1,5 @@
 > Burns: pp. 289-296, 301-313
+
 # General
 
 The agents for in any society (state) are the **revolutionaries**, the **reformers** and the military. Since the wars of independence in most South American countries, the military has played a significant role in development. The military form of government, however, is **costly to a country** in a number of ways:
@@ -28,7 +29,7 @@ The biggest change that produced the "economic miracle" was in the areas of the 
 
 # Peru
 
-In Peru the military  became the agents for social reform. Since the days of Pizarro, a small elite from **Europe** controlled the poor Indians. In fact, **1%** of the landowners controlled **80%** of the useable land. It was the military who became sensitive to the social, economic and political disparities of their own country. The world for the economic of Peru would be called **feudalism**. As a result, the military in October 1968 under General [[Military Dictatorship - General Juan Velasco Alvarado in Peru| Juan Velasco Alvarado]] deposed [[TN Peru's Leaders Belaunde Terry & Velasco Alvarado| President Fernando Belaunde Terry]]. Immediately, the military went about making "non-capitalist, non-communist" reforms. These included:
+In Peru the military became the agents for social reform. Since the days of Pizarro, a small elite from **Europe** controlled the poor Indians. In fact, **1%** of the landowners controlled **80%** of the useable land. It was the military who became sensitive to the social, economic and political disparities of their own country. The world for the economic of Peru would be called **feudalism**. As a result, the military in October 1968 under General [[Military Dictatorship - General Juan Velasco Alvarado in Peru| Juan Velasco Alvarado]] deposed [[TN Peru's Leaders Belaunde Terry & Velasco Alvarado| President Fernando Belaunde Terry]]. Immediately, the military went about making "non-capitalist, non-communist" reforms. These included:
 
 1. Transformed land structure **(Land Reform)**
 2. Large/efficient estates were not broken up but run by workers as **cooperatives**
@@ -50,4 +51,4 @@ Gradually the military lost their commitment to reform and in 1980, Fernando Bel
 
 In returning to power, Fernando Belaunde Terry was faced with huge economic problems. Free electiosn and democratic government could not find any solutions. The national debt had reached 16 billion and the country was bankrupt. As a result, opposition came from a new guerrilla movement called the [[Military Dictatorship - Peru#^e003d6|Shining Path]] or **Sendero Luminoso**.
 
-The military governments in [[Brazil - Vargas|Brazil]] and [[Military Dictatorship - Peru|Peru]] on the surface seems 
+The military governments in [[Brazil - Vargas|Brazil]] and [[Military Dictatorship - Peru|Peru]] on the surface seems

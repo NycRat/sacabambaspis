@@ -21,6 +21,7 @@
 
 - Class divisions: The aristocracy had all the wealth & peasants (80% population) were destitute
 - In 1861, serf were emancipated but their situation did not improve due to the growing population, illiteracy, lack of knowledge, and lack of land reforms
+
 ## Economic
 
 - Industrialization came late to Russia with excessive exploitation (more than W. Europe)
@@ -28,11 +29,10 @@
 
 ## Political
 
-
 - Autocracy
-	- The Czar was supported by the Orthodox Church & the aristocracy who were dependent on the Czar for status
-	- The Czar blocked political reforms
-	- After the 1881 assassination, the secret police OKHRANA became oppressive
+  - The Czar was supported by the Orthodox Church & the aristocracy who were dependent on the Czar for status
+  - The Czar blocked political reforms
+  - After the 1881 assassination, the secret police OKHRANA became oppressive
 - In the late 19th century, industrialization began and a new middle class wanted political power with its growing economic power
 - Russification was a policy to get rid of the distinctive cultures and promote the Russian language and Orthodox faith
 - Nicholas II was considered incompetent
@@ -46,15 +46,16 @@
 
 1848 Karl Marx and Friedrich Engels wrote the Communist Manifesto and in 1867 Marx also wrote Das Kapital in 1867
 
->[!quote] Marx:
+> [!quote] Marx:
 >
->"From each according to his abilities; to each according to his needs..."
+> "From each according to his abilities; to each according to his needs..."
 >
->"The communists...openly declare that their ends can be obtained only by the forcible overthrow of all existing social conditions. Let the ruling classes tremble at a communist revolution. The proletariats have nothing to lose but their chains; they have a world to win. Workers of the world unite!"
+> "The communists...openly declare that their ends can be obtained only by the forcible overthrow of all existing social conditions. Let the ruling classes tremble at a communist revolution. The proletariats have nothing to lose but their chains; they have a world to win. Workers of the world unite!"
 
 Marx believed that the revolution had to develop in an industrial country, either Britain or Germany
 
 Basic Tenets of Marxism:
+
 - man is good by nature
 - economic relations determine all human relations
 - exploitation is an inherent feature of capitalism
@@ -69,32 +70,36 @@ Basic Tenets of Marxism:
 2. **Bolsheviks: Led by Lenin**: Lenin believed that because of the impact of imperialism on Russia, Russia could advance to socialism without going through the capitalist stage. This meant that the Communists could seize power immediately after a bourgeois revolution (fast change). Revolution would be the work of a small group of professional revolutionaries and this revolutionary party would work in secrecy. Therefore, only "trusted" or "True" Marxists could join the party.
 3. **Mensheviks: Led by Plekhanov**: Plekhanov believed in "traditional" Marxism which meant that socialism in Russia could develop only AFTER advancing through the stage of capitalism. Mensheviks supported a bourgeois revolution and believed socialism in Russia would be a gradual change following the full development of capitalism in Russia. They also believed that the party should not work in private and be open to membership.
 
->[!note] Political Groups
+> [!note] Political Groups
 >
->**Social Democrats:**
->- Bolsheviks
->- Mensheviks
+> **Social Democrats:**
 >
->**Socialist Revolutionaries (SR):**
->- left wing party that was revivals of the Social Democrats
->- Peasants should own the land = much support
+> - Bolsheviks
+> - Mensheviks
 >
->**Constitutional Democrats or Cadets (Liberals):**
->- wealthy business & professionals that wanted an end to Czar's rule
+> **Socialist Revolutionaries (SR):**
+>
+> - left wing party that was revivals of the Social Democrats
+> - Peasants should own the land = much support
+>
+> **Constitutional Democrats or Cadets (Liberals):**
+>
+> - wealthy business & professionals that wanted an end to Czar's rule
 
 # Conflict in Russia Empire 1905
 
-The 1905 Revolution was due to: 
+The 1905 Revolution was due to:
+
 - Labour unrest/strikes-hunger
 - Russo-Japanese War, Russia losing badly (1904-05)
-	- Nicholas II had hoped to unite the country with an easy war against Japan.
+  - Nicholas II had hoped to unite the country with an easy war against Japan.
 
 ## Czar's Winter Palace Bloody Sunday: Sunday, January 22, 1905
 
 - About 100,000 demonstrators tried to present a petition of grievances to the Czar at his Winter Palace.
 - The guards opened fire and Cossacks charged charged the demonstrators and killed hundreds
 - Bloody Sunday triggered naval mutinies, strikes, & the call for the end of the autocracy
-	- For the most part, the armed forces remained loyal to the Czar
+  - For the most part, the armed forces remained loyal to the Czar
 - Soviets: Workers from from the Socialist groups had formed councils or soviets in all major cities to support their goal of change; however, the soviets played a very small role in the 1905 revolution but would be key in 1917
 
 ## October Manifesto
@@ -103,6 +108,7 @@ In 1905, the Czar met demands of reformers by granting civil rights & creating a
 
 This saved his autocracy and these reforms split the opposition to the Czar with the Liberals (i.e. Cadets) being satisfied but the Social Democrats and Social Revolutionaries were not and therefore, boycotted the election for the Duma
 
->[!summary] Results of the 1905 Revolution
->- Russia was supposed to be a **Constitutional Monarchy** with new Duma but the Duma did not have any real power nor was there promised constitution.
->- Lenin Learned the Lesson: "to stage a successful rebellion, the people must be armed."
+> [!summary] Results of the 1905 Revolution
+>
+> - Russia was supposed to be a **Constitutional Monarchy** with new Duma but the Duma did not have any real power nor was there promised constitution.
+> - Lenin Learned the Lesson: "to stage a successful rebellion, the people must be armed."

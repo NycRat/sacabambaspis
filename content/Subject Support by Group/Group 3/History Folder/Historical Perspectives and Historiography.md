@@ -3,17 +3,19 @@ History is essentially the study of change. Core to the analysis and understandi
 "Students should be aware of how history is used or sometimes abused to retell and promote a grand narrative of history, a narrowly focused national mythology that ignores other viewpoints or perspectives, or to elevate a single perspective to a position of predominance. Thus, students are encouraged to challenge and critique multiple perspectives of the past, and to compare them and corroborate them with historical evidence. Students should recognize that for every event recorded in the past, there may be many contrasting or differing perspectives. Using primary-source accounts and historians' interpretations, students may also investigate and compare how people, including specific groups such as minorities or women, may have experienced events differently in the past. In this way there are particularly strong links between exploring multiple perspectives and the development of international-mindedness" (IB History Guide 2017, p. 95).
 
 # A. PRIMARY SOURCE:
->A primary source is historical evidence created during the time under study.
+
+> A primary source is historical evidence created during the time under study.
 
 This evidence may take the form of texts such as documents, editorials, journal articles, financial statements, diary entries, song lyrics, or novels; visuals such as pictures, cartoons, photographs, videos, or graphics; interviews whether formal or informal; and artifacts such as household items, cars, statues, clothing, toys, tools or leisure items. Therefore, history may also incorporate the evidence from and study of other disciplines such as ethnography, anthropology, sociology, or archeology.
+
 # B. SECONDARY SOURCE:
->A secondary source is created after and usually in reflection of the time under study.
+
+> A secondary source is created after and usually in reflection of the time under study.
 
 This evidence is often from an academic viewpoint via historical investigation of primary sources and analysis of subsequent historical inquiry. However, this could also be a gray area whereby a contemporary interpretation of a primary source during the time under study could also be considered a secondary source due to the "second-hand" nature of the
 information.
 
 # "History Perpetually Requires to be corrected by more history (Butterfield p.131)"
-
 
 Webster's defines history as a chronological record of significant events; the record of past events and times, especially in connection with the human race; or the branch of knowledge dealing with past events. When we read of history in school textbooks we often take it as if it were the final say on any event. Meaning that however the text describes the event as occurring, was how it happened and who are we to say otherwise? Thus, being the general assumption that history is fixed and unable to be altered with the general conclusion that an event that occurred nearly 500 years ago cannot be changed. However, a better understanding of such events has occurred leading some people to become skeptical. History also carries a stereotype that it is simply a study of past events and people, and is often very dry and boring. However, in many cases this is certainly far from the truth.
 

@@ -5,4 +5,4 @@
 - populism should always have a relationship with its people and leader
 - Mao - The person became the ideology
 - Isabel overthrown by military
-	- rule by triumvirate
+  - rule by triumvirate

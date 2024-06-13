@@ -62,7 +62,12 @@ export default {
     rss: {
       recentNotes: "Недавние заметки",
       lastFewNotes: ({ count }) =>
-        `Последн${getForm(count, "яя", "ие", "ие")} ${count} замет${getForm(count, "ка", "ки", "ок")}`,
+        `Последн${getForm(count, "яя", "ие", "ие")} ${count} замет${getForm(
+          count,
+          "ка",
+          "ки",
+          "ок",
+        )}`,
     },
     error: {
       title: "Страница не найдена",
@@ -79,7 +84,12 @@ export default {
       tagIndex: "Индекс тегов",
       itemsUnderTag: ({ count }) => `с этим тегом ${count} элемент${getForm(count, "", "а", "ов")}`,
       showingFirst: ({ count }) =>
-        `Показыва${getForm(count, "ется", "ются", "ются")} ${count} тег${getForm(count, "", "а", "ов")}`,
+        `Показыва${getForm(count, "ется", "ются", "ются")} ${count} тег${getForm(
+          count,
+          "",
+          "а",
+          "ов",
+        )}`,
       totalTags: ({ count }) => `Всего ${count} тег${getForm(count, "", "а", "ов")}`,
     },
   },

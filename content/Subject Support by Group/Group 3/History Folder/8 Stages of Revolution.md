@@ -1,4 +1,4 @@
-Revolutions come and go, but regardless of the revolution and what country it takes place in, revolutions go through specific stages. Crane Brinton in his book, *Anatomy of a Revolution*, outlines "many" stages that all revolutions have in common. In an abbreviated form they include:
+Revolutions come and go, but regardless of the revolution and what country it takes place in, revolutions go through specific stages. Crane Brinton in his book, _Anatomy of a Revolution_, outlines "many" stages that all revolutions have in common. In an abbreviated form they include:
 
 # 1. The accumulation of grievances and social restlessness of the masses over many years.
 
@@ -35,4 +35,3 @@ At this point, the revolution turns in on itself or has come full circle. The re
 # Conclusion
 
 Crane Brinton in, Anatomy of Revolution, states that revolutions go through a series of stages with impending upheaval, widespread dissatisfaction, and culminating in riots, assassinations, and other acts of violence. The ruling group makes concessions, until the real transfer of power occurs. Reforms take place by the moderates, the moderates are unable to maintain control and the initiative passes to the extremists. Those out of power attempt to regain control and civil war results. The radicals are entrenched in power and they attempt to realize their utopian dreams. When their tenure has run its course, there is a return to normalcy which is called the Thermidorian Reaction.
-

@@ -22,8 +22,8 @@ This site relies upon the work of IB students at RHS to keep the resources at th
 
 If you have resources regarding IB please contact **Ethan Yu** (arpbluesteel) on discord.
 
->[!warning]
->Do not send us copyrighted content such as past papers and textbooks. This site runs the risk of getting taken down by GitHub if the holder decides to strike it. There are plenty of places on the internet to find this sort of stuff and chances are your friends already know about this.
+> [!warning]
+> Do not send us copyrighted content such as past papers and textbooks. This site runs the risk of getting taken down by GitHub if the holder decides to strike it. There are plenty of places on the internet to find this sort of stuff and chances are your friends already know about this.
 
 ## Curation/Writing
 
@@ -33,19 +33,18 @@ Find out how you can help [[Contributing]]
 
 # People
 
-
 ## ARPBlueSteel (Ethan)
 
 > - Grad 2024 DP
-> 
+>
 > Lead Contributor and Site Curator
 
 ## RllySleepy (Philip)
 
-> Grad 2024 DP, Lead Contributor for [[History]]
-> `this file kekw`
+> Grad 2024 DP, Lead Contributor for [[History]] > `this file kekw`
 
 ## Noisymarc (Michael)
+
 > Grad 2024 CC
 > `"terrible"`
 > Lead Contributor for [[Digital Societies]]

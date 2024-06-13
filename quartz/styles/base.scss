@@ -96,6 +96,13 @@ a {
   }
 }
 
+.desktop-half-only {
+  display: initial;
+  @media all and (max-width: $halfPageWidth) {
+    display: none;
+  }
+}
+
 .desktop-only {
   display: initial;
   @media all and (max-width: $fullPageWidth) {
@@ -105,7 +112,7 @@ a {
 
 .mobile-only {
   display: none;
-  @media all and (max-width: $fullPageWidth) {
+  @media all and (max-width: $halfPageWidth) {
     display: initial;
   }
 }
@@ -114,8 +121,12 @@ a {
   @media all and (max-width: $fullPageWidth) {
     margin: 0 auto;
     padding: 0 1rem;
+  }
+
+  @media all and (max-width: $halfPageWidth) {
     max-width: $pageWidth;
   }
+
 
   & article {
     & > h1 {
@@ -146,8 +157,16 @@ a {
   & > #quartz-body {
     width: 100%;
     display: flex;
+
     @media all and (max-width: $fullPageWidth) {
-      flex-direction: column;
+      display: grid;
+      grid-template-columns: auto auto;
+      grid-template-rows: auto auto;
+    }
+
+    @media all and (max-width: $halfPageWidth) {
+      display: flex !important;
+      flex-direction: column !important;
     }
 
     & .sidebar {
@@ -159,9 +178,19 @@ a {
       width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
-      padding: 0 4rem;
-      position: fixed;
-      @media all and (max-width: $fullPageWidth) {
+      padding: 0 3rem;
+      // position: fixed;
+    }
+
+    & .sidebar.left {
+      grid-column: 1;
+      grid-row: 1;
+      left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      @media all and (max-width: $halfPageWidth) {
+        gap: 0;
+        align-items: center;
+      }
+      @media all and (max-width: $halfPageWidth) {
         position: initial;
         flex-direction: row;
         padding: 0;
@@ -170,17 +199,18 @@ a {
       }
     }
 
-    & .sidebar.left {
-      left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
-      @media all and (max-width: $fullPageWidth) {
-        gap: 0;
-        align-items: center;
-      }
-    }
-
     & .sidebar.right {
+      grid-column: 2;
+      grid-row: 2;
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       flex-wrap: wrap;
+      @media all and (max-width: $fullPageWidth) {
+        position: initial;
+        flex-direction: row;
+        padding: 0;
+        width: initial;
+        margin-top: 2rem;
+      }
       & > * {
         @media all and (max-width: $fullPageWidth) {
           flex: 1;
@@ -199,7 +229,21 @@ a {
     }
   }
 
-  & .center,
+  & .center {
+    grid-column: 2;
+    grid-row: 1;
+    margin-left: auto;
+    margin-right: auto;
+    width: $pageWidth;
+    @media all and (max-width: $fullPageWidth) {
+      margin-left: 0;
+      margin-right: 0;
+    }
+    @media all and (max-width: $halfPageWidth) {
+      width: unset;
+    }
+  }
+
   & footer {
     margin-left: auto;
     margin-right: auto;

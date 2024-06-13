@@ -1,13 +1,19 @@
-#unfinished 
+#unfinished
+
 # Topics
 
 ## Historiography
+
 - [[What is history and why study it|What is history and why study it?]]
 - [[Historical Perspectives and Historiography]]
 - [[Theories of History]]
+
 ### Turn of the 20th (1900) and 21th (2000) Centuries
+
 A. [[Political, Economic, Technological and Social Views]]
+
 ### [[Major Events of The 19th c and early 20th c to WWI]]
+
 A. World of 19 Century
 
 B. German Unification (1815 -1872)
@@ -19,17 +25,20 @@ D. Other Alliances (1890 -1910)
 E. Major Events (1905-1913)
 
 F. [[Major Causes of WWI]]
+
 ### [[Events of WWI 1914 & 1915]]
+
 A. The Beginning of WWI
 
-B. The Western Front 1914 
+B. The Western Front 1914
 
 C. The Western Front 1915
 
 D. The Eastern Front 1914 &1915 E. Others Fronts 1914 & 1915
 
-### [[IV. Events of WWI 1916 to 1918]] 
-A. War Fronts in 1916 
+### [[IV. Events of WWI 1916 to 1918]]
+
+A. War Fronts in 1916
 
 B. War Fronts in 1917
 
@@ -38,6 +47,7 @@ C. Events of 1918
 D. End of World War One
 
 ### [[V. Aftermath of WWI Paris Peace Conference]]
+
 A. WWI Armistice and Paris Peace Conference
 
 B. [[Results of the Treaty of Versailles]]

@@ -1,6 +1,7 @@
->[!note] Definitions:
->- A change or overthrow Of an established society and a **change** to a new system whether socially, politically, or economically.
->- Denotes the sudden. forceful and/or violent overthrow of a previously stable society (SEP) or government and the change to or creation of a new society (SEP) or government.
+> [!note] Definitions:
+>
+> - A change or overthrow Of an established society and a **change** to a new system whether socially, politically, or economically.
+> - Denotes the sudden. forceful and/or violent overthrow of a previously stable society (SEP) or government and the change to or creation of a new society (SEP) or government.
 
 # Types of Revolutions
 

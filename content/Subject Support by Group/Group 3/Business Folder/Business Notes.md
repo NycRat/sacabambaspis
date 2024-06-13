@@ -1,7 +1,7 @@
-
 Created by Julia
 
 Unethical Business Practices
+
 - Financial Dishonesty
 - Environment Neglect & Damage
 - Exploitation of Consumers
@@ -9,15 +9,17 @@ Unethical Business Practices
 - Exploitation of Suppliers
 
 Common Business Objectives
-	i. Growth
-	ii. profit
-	iii. Protecting Shareholder Value
-	iv. Ethical Objectives
+i. Growth
+ii. profit
+iii. Protecting Shareholder Value
+iv. Ethical Objectives
 
 Exploitation of the Suppliers
+
 - Child Labour
 
 Exploitation of the Consumer
+
 - Tobacco/Alcohol Industry
 - Gambling
 - Personal Data
@@ -32,47 +34,43 @@ Table 3.1 - The advantages and limitations of having ethical objectives and prac
 
 Advantages
 
-Improved corporate image 
-	- Acting ethically and in a socially responsible way can help to enhance the corporate image and reputation of a business. Conversely, the media will report unethical business behaviour which could seriously damage the firm's corporate image.
-Increased customer loyalty 
-	- Customers are more likely to be loyal to a business that does not act immorally. For example, The Body Shop has established a large customer base worldwide based on its ethical policy of not testing its products on animals.
-Cost cutting 
-	- Ethical behaviour can help to cut certain costs, e.g. being environmentally friendly can reduce the amount of (excess) packaging. Ethical objectives and strategies can help the firm to avoid litigation costs (expenses associated with legal action taken against a business) that might otherwise arise from unethical and irresponsible activities.
-Improved staff morale and motivation 
-	- Ethical behaviour can help a business to attract and retain highly motivated staff. People are more likely to be proud of the firm they work for if it acts ethically and within the law. This also helps to improve productivity and employee loyalty.
+Improved corporate image - Acting ethically and in a socially responsible way can help to enhance the corporate image and reputation of a business. Conversely, the media will report unethical business behaviour which could seriously damage the firm's corporate image.
+Increased customer loyalty - Customers are more likely to be loyal to a business that does not act immorally. For example, The Body Shop has established a large customer base worldwide based on its ethical policy of not testing its products on animals.
+Cost cutting - Ethical behaviour can help to cut certain costs, e.g. being environmentally friendly can reduce the amount of (excess) packaging. Ethical objectives and strategies can help the firm to avoid litigation costs (expenses associated with legal action taken against a business) that might otherwise arise from unethical and irresponsible activities.
+Improved staff morale and motivation - Ethical behaviour can help a business to attract and retain highly motivated staff. People are more likely to be proud of the firm they work for if it acts ethically and within the law. This also helps to improve productivity and employee loyalty.
 
 Limitations
 
-Compliance costs 
-	- The costs of being socially responsible are potentially very high. For example, producing organic agricultural products is far more expensive than growing and harvesting genetically modified crops due to the additional time and oney involved.
-Lower profits
-	- If compliance costs cannot be passed onto consumers in the form of higher prices, the firm's profitability is likely to fail. An ethical dilemma for the business exists when ethical decision-making involves adopting a less profitable course of action.
-Stakeholder conflict 
-	- Not all stakeholders are keen on the firm adopting ethical objectives such as profit maximization. Speculative shareholders and investors may be more interested in short-term profits than the firm's long-term ethical stance. So, managers may be pressurised into pursuing other goals.
-The subjective nature of business ethics
-	- Views about what is considered right or wrong depend on the beliefs and principles held by individuals and societies. Legislation cna help to provide guidelines about what is socially acceptable, but even these are somewhat subjective in nature.
+Compliance costs - The costs of being socially responsible are potentially very high. For example, producing organic agricultural products is far more expensive than growing and harvesting genetically modified crops due to the additional time and oney involved.
+Lower profits - If compliance costs cannot be passed onto consumers in the form of higher prices, the firm's profitability is likely to fail. An ethical dilemma for the business exists when ethical decision-making involves adopting a less profitable course of action.
+Stakeholder conflict - Not all stakeholders are keen on the firm adopting ethical objectives such as profit maximization. Speculative shareholders and investors may be more interested in short-term profits than the firm's long-term ethical stance. So, managers may be pressurised into pursuing other goals.
+The subjective nature of business ethics - Views about what is considered right or wrong depend on the beliefs and principles held by individuals and societies. Legislation cna help to provide guidelines about what is socially acceptable, but even these are somewhat subjective in nature.
 
 Businesses should prioritize ethical behaviour as their business objective and there should be very few unethical decisions made by a business. While unethical behaviour may be more effective at cutting costs, it can severely damage the reputation of your business and only really benefits in the short-term. A long-lasting and well-established business should will have very ethical behaviour.
 
 Business Objectives
 
 Strategic
+
 - Medium-long term
 - Goal of growth & profit maximizing
 - Improve market standing, image & reputation, market share
 - Decided by the senior leadership team or board of directors
 
 Tactical
+
 - Short term, day-to-day
 - Affect a section of the org.
 - Goal of survival or maximizing sales revenue
 - Used by the workforce to work towards achieving the strategic objectives of the organization.
 
 Corporate Social Responsibility (CSR)
+
 - Conscientious consideration of ethical and environmental practise related to business activity
 - Acting morally toward all of its various stakeholder groups and the well-being of local communities and society as a whole
 
 Determining Factors for Acting in a Socially Responsible Way:
+
 - Involvement, influence, and power of different stakeholder groups
 - Corporate culture and firm's attitude
 - Social expectation and awareness; experience
@@ -85,6 +83,7 @@ Question 3.3 \[p. 47]
 d) Discuss whether acting ethically ultimately provides McDonald's and Burger King with competitive advantages.
 
 Internal Factors
+
 - Corporate Culture
 - Type & Size of Organization
 - Experience
@@ -94,6 +93,7 @@ Internal Factors
 - Operational Practices
 
 External Factors
+
 - Social
 - Technological
 - Economic
@@ -114,18 +114,22 @@ A tool to help companies decide how and where to expand their business.
 Four generic growth strategies are identified.
 
 Market Penetration
+
 - Existing market, existing product or service
 - Increase sales to the existing market
 
 Market Development
+
 - New market, existing product or service
 - New customers for existing products/services
 
 Product Development
+
 - Existing market, new product or service
 - New product/service
 
 Diversification
+
 - New products/services sold in new markets
 
 BMT - STEEPLE
@@ -146,6 +150,7 @@ S - Social
 T - Technological
 
 Social & Cultural
+
 - Attitude of society
 - Education on environmental protection
 - Demographic changes
@@ -155,6 +160,7 @@ Social & Cultural
 Question 46.2
 
 Economic
+
 - Government policies
 - Attitudes and actions of foreign countries
 - Levels of business and consumr confidence in the economy
@@ -174,11 +180,12 @@ How Inflation Has Changed the Price of a Cup of Coffee Over Time
 2010 - $1.25
 2019 - $1.59
 
-The spending power of one dollar is the goods that can be bought with that dollar. The spending power of moeny can change over time. If one dollar buys fewer goods this year than it did last year, then the value of money has fallen and this must have been cased by inflation. 
+The spending power of one dollar is the goods that can be bought with that dollar. The spending power of moeny can change over time. If one dollar buys fewer goods this year than it did last year, then the value of money has fallen and this must have been cased by inflation.
 
 Consumer Price Index
 
 The 8 Major Groups of the Consumer Price Index
+
 - Apparel
 - Transportation
 - Education and Communication
@@ -191,14 +198,15 @@ The 8 Major Groups of the Consumer Price Index
 What Causes Inflation?
 
 Inflation - **The persistent tendency for prices to rise**
+
 - Money
 - Demand
 - Increasing Costs
 - Expectations
 
->How Does Inflation Work?
+> How Does Inflation Work?
 >
->Inflation represents the rate at which the cost of goods and services increase over a period of time.
+> Inflation represents the rate at which the cost of goods and services increase over a period of time.
 
 Demand-Pull - When demand for goods/service exceeds production capacity.
 Cost-Push - When production costs increase prices.
@@ -207,6 +215,7 @@ Built-In - When prices rise, wages rise too, in order to maintain living costs.
 Controlled Rate of Inflation
 
 Inflations also lead to...
+
 - Less price-competitive trading overseas
 - Fall in export earnings
 - Lower national output
@@ -215,10 +224,12 @@ Inflations also lead to...
 Question 46.4
 
 High Level of Unemployment
+
 - Social costs
 - Economic costs
 
 Types of Unemployment
+
 - Frictional unemployment (transitional unemployment)
 - Seasonal unemployment
 - Technological unemployment
@@ -227,6 +238,7 @@ Types of Unemployment
 - Cyclical unemployment (demand deficient unemployment)
 
 Demand-Side Policies
+
 - Expansionary fiscal policy (reduce taxes/increase government spending)
 - Expansionary monetary polict (reduce interest rates/increase borrowing & spending)
 - Protectionist measures (placing tariffs - tax on foreign goods)
@@ -234,9 +246,11 @@ Demand-Side Policies
 Supply-Side Policies
 
 Business Cycle
+
 - Recovery > Peak/Boom > Recession > Stump > Recovery
 
 Strategies
+
 - Cost reduction
 - Price reduction
 - Non-pricing strategies
@@ -268,6 +282,7 @@ Protectionist Measures - used to safeguard domestic businesses from foreign comp
 5. Tehcnical and safety standards
 
 Environmental
+
 - Society
 - Environment
 - External Costs / Negative externalities
@@ -275,26 +290,29 @@ Environmental
 > Passive Smoking - Packaging Waste - Global Warming - Air & Noise Pollution
 
 Natural Disasters
+
 - 2011 Japanese Earthquake/Tsunami
 - 2021 Haitian Earthquake
 - 2021 BC Floods
 
 Medical Scares/Pandemics
+
 - 2003 SARS
 - 2020 COVID-19
 - 2021 Monkey pox
 
-Political       {       Fiscal Policy
-                |
-Laissez-Faire   |       Expansionary
-                |       Deflationary
-                |
-vs.             |      |             |
-                |      v             v
-                |
-Interventionist {  Taxation    Gov't Policies
+Political { Fiscal Policy
+|
+Laissez-Faire | Expansionary
+| Deflationary
+|
+vs. | | |
+| v v
+|
+Interventionist { Taxation Gov't Policies
 
 Taxation
+
 - Direct (income, inheritance, corporation)
 - Indirect (sales taxes, excise duties - gas/tobacco)
 - Progressive (income tax)
@@ -304,6 +322,7 @@ Taxation
 Policies
 
 Governments will spend revenues raised by taxes and other means to finance:
+
 - Infrastructure
 - Social Security
 - Education
@@ -313,12 +332,14 @@ Governments will spend revenues raised by taxes and other means to finance:
 - Law & Order
 
 Legal
+
 - Consumer Protection Legislation
 - Employee Protection Legislation
 - Competition Legislation
 - Social & Environmental Legislation
 
 Ethical
+
 - Google - Good quality workers
 - The Body Shop - Good publicity
 - TOMS - Donation
@@ -334,12 +355,15 @@ Ethical
 6. Fully reference 3-5 osurce documnets in bibliography
 
 Preliminary Approval & Research
+
 - end of Year 1 & Summer
 
 First Draft & Feedback
+
 - September - October of Year 2
 
 Final Copy
+
 - November - December of Year 2
 
 Internal Assessment
@@ -394,36 +418,44 @@ Stakeholder Mapping Model
                              Low                      High
 
                         A                        B
-Level          Low      Minimum Effort           Keep Informed
+
+Level Low Minimum Effort Keep Informed
 of
-Power         High      C                        D
-                        Keep Satisfied           Maximum Effort
+Power High C D
+Keep Satisfied Maximum Effort
 
 Internal Economies of Scale
 
 Technical Economies
+
 - use capital and machinery to mass produce
 - high fixed costs of their equipment and machinery are spread over the huge scale of output, reducing the average cost of production
 
 Financial Economies
+
 - borrow large sums of money at lower rates of interest
 
 Managerial Economies
+
 - specialization in managerial roles leads to higher productivity
 - avoid a duplication of effort in planning, communication, marketing, distribution and production processes
 
 Specialization Economies
+
 - similar to managerial economies, but with division of labour of the workforce
 - specialist labour increases productivity
 
 Marketing economies
+
 - multinational companies can save on marketing costs by using the same campaign worldwide
 - transaction costs is also minimized when selling in bulk to a single customer
 
 Purchasing Economies
+
 - buying resources in bulk
 
 Risk-Bearing Economies
+
 - enjoyed by conglomerates (firms with diversified portfolio of products in different markets)
 - can spread fixed costs (R&D, Marketing)
 - offset unfavourable market condition with their diversity of products and markets
@@ -534,24 +566,26 @@ Decision Trees
 
 | a quantitative decision-making tool, showing the probable outcomes of different strategic options.
 
-
                                                |- Success
                        |- Chance Node (circle) |
                        |                       |- Failure
-Decision Node (square) |
-                       |                       |- Success
-                       |- Chance Node (circle) |
-                                               |- Failure
 
-----------------------------------------------------------------------------
+Decision Node (square) |
+| |- Success
+|- Chance Node (circle) |
+|- Failure
+
+---
 
                                           |- Success (40%, $30 mil)
+
 Chance Node - Launch New Product ($5 mil) |
-                                          |- Failure (60%, $8 mil)
+|- Failure (60%, $8 mil)
 
                                                 |- Success (80%, $3 mil)
+
 Chance Node - Improve Existing Product ($1 mil) |
-                                                |- Failure (20%, $1.5 mil)
+|- Failure (20%, $1.5 mil)
 
 Disadvantages
 
@@ -568,10 +602,10 @@ Disadvantages
 - women in the workforce
 - aging population
 
- > increased dependent psp.
- > reduced labour mobility (geographical or occupational)
- > changes in consumption patterns
- > changes in employment patterns
+> increased dependent psp.
+> reduced labour mobility (geographical or occupational)
+> changes in consumption patterns
+> changes in employment patterns
 
 (ii) Changes in Labour Mobility
 
@@ -913,9 +947,9 @@ Managing a gruop of people wiht different personalities and needs is challenging
 
 Three types of needs to boost motivatio nand productivitiy:
 
-1) Need for Achievement (n-Ach)
-2) Need for Power (n-Pow)
-3) Need for Affilitation (n-Aff)
+1. Need for Achievement (n-Ach)
+2. Need for Power (n-Pow)
+3. Need for Affilitation (n-Aff)
 
 Deci & Ryan's Self-Determination
 
@@ -923,9 +957,9 @@ Fundamental and positive human tendency to grow
 
 Three core requirements that facilitate growth:
 
-1) Autonomy - have control over what a person does
-2) Competence - confidence in doing a particular task; sense of effectiveness, value, and mastery
-3) Relatedness - need to interact, be connected to others
+1. Autonomy - have control over what a person does
+2. Competence - confidence in doing a particular task; sense of effectiveness, value, and mastery
+3. Relatedness - need to interact, be connected to others
 
 Adams' Equity Theory
 
@@ -941,20 +975,24 @@ Inputs
 - effort
 
 Outputs
+
 - remuneration
 - recognition
-- rank 
+- rank
 - responsibilities
 
 Equity impacts level of motivation on three levels:
 
 Equity Norm
+
 - Workers expect an equitable remuneration for their contributions
 
 Social Comparison
+
 - Comparisons of inputs and outputs with their peers
 
 Cognitive Distortion
+
 - Being undercompensated demotivates workers
 - They may alter input (put in less effort) and/or (negotiate for a pay raise)
 
@@ -995,7 +1033,7 @@ S - Security
 
 Methods of Recruitment
 
-External Recruitment 
+External Recruitment
 
 1. Newspaper/Internet advertising
 2. Specialist trade publication
@@ -1007,13 +1045,13 @@ External Recruitment
 
 Internal Recruitment vs. External Recruitment
 
-1. Cost Effective        1. More Applicants
+1. Cost Effective 1. More Applicants
 
-2. Less Down-time        2. Fresh ideas
+2. Less Down-time 2. Fresh ideas
 
-3. Less Risk             3. Less time resources needed (just hire once)
+3. Less Risk 3. Less time resources needed (just hire once)
 
-4. Motivational          4. No previous politics
+4. Motivational 4. No previous politics
 
 Selection Process
 
@@ -1051,16 +1089,17 @@ Financial Motivation
 
 1. Profit-related pay / Profit sharing
 2. Performance-related pay
-	- Performance bonus, loyalty, bonus, pay raise, gratuity
-	- Commission
+   - Performance bonus, loyalty, bonus, pay raise, gratuity
+   - Commission
 3. Employee share ownership schemes
-	- Westjet, Starbucks
-	- Used mostly for senior management
+   - Westjet, Starbucks
+   - Used mostly for senior management
 4. Fringe Benefits
 
 Google: Reasons to work there
 
 How businesses choose their communication methods
+
 - Personal preferences
 - Organizational structures
 - Security issues and concerns
@@ -1073,6 +1112,7 @@ How businesses choose their communication methods
 - Cost
 
 Barriers to communication
+
 - High costs
 - Technological breakdowns
 - Jargon
@@ -1087,6 +1127,7 @@ Barriers to communication
 - Language proficiency
 
 How does poor communication hinder businesses?
+
 - Low morale
 - Errors and mistakes
 - Loss of competitiveness
@@ -1095,28 +1136,33 @@ How does poor communication hinder businesses?
 Objectives and limitations of introducing new and improved changes
 
 Improvements
+
 - Improved speed, access and accuracy
 - Improved motivation and productivity
 - Greater potential to reach a wider audience
 
 Limitations
+
 - Costs
 - Threats to security
 - The need for change management
 
 Gods of Management - Charles Handy
+
 - Zeus - Power cultures
 - Apollo - Role cultures
 - Athena - Task cultures
 - Dionysian - Person cultures
 
 Zeus - Power cultures
+
 - The King and Father of the gods and rules the weather as well as law, order, and justice.
 - In Greek mythology, the most powerful and strong God.
 - Organization culture that has a strong, dynamic leader with an entrepreneurial spirit.
 - For example, Steve Jobs - Apple
 
 Apollo - Role cultures
+
 - Apollo is more aesthetic and embraces order and rules, as well as arts, knowledge, and healing
 - Employees are rational and roles are clear-cut and discharged with clearly defined procedures
 - Defined by their job descriptions rather than their personality.
@@ -1124,6 +1170,7 @@ Apollo - Role cultures
 - For example, civil services
 
 Athena - Task cultures
+
 - Goddess of intelligence and wisdom.
 - Management is concerned with solving a series of problems.
 - Draws on all its resources from across all departments to meet current needs.
@@ -1131,6 +1178,7 @@ Athena - Task cultures
 - For example, management consultancies, research organizations
 
 Dionysian - Person cultures
+
 - God of wine, parties, and festivals.
 - Organization exists to serve the individual.
 - No clearly identified leader.
@@ -1283,7 +1331,7 @@ Revenue streams - refers to the money coming into a business frmo its various bu
 - Franchise costs and royalties - McDonald's operates franchises. IB earns royalties from the sale of textbooks
 - Sponsorship revenue - a form of below-the-line- promotion whereby the sponsorfinancially supports an organization in return for prominent promotional display
 - Subscription fees - use or access a good or servic, based on a formal agreement
-- Merchandise-  theme parks merchandise
+- Merchandise- theme parks merchandise
 - Interest earnings - interest on deposit (cash)
 - Dividends - from holding shares of other companies
 - Donations - non-profit organizations
@@ -1336,13 +1384,14 @@ The profit and loss (P&L) account
 - Profit = Gross profit - Expenses
 - Expenses are the indirect or fixed costs of production
 - Ways to cut expenses:
+
 1. Rent charges could be negotiated
 2. Fuel consumption could be reduced
 3. Administration costs could be examined
 
 Gross Profit
 
-* the trading account * the profit and los account * the appropriation account *
+- the trading account _ the profit and los account _ the appropriation account \*
 
 Sales Revenue - the value of products sold to customers minus any returns or discounts
 
@@ -1411,8 +1460,8 @@ Appreciation: increase in value of fixed assets over time
 
 Depreciation: fall in value of fixed assets over time
 
-1) Wear & Tear - usage causes wearing out and increases maintenance costs
-2) Obsolete Assets - newer and better products become available
+1. Wear & Tear - usage causes wearing out and increases maintenance costs
+2. Obsolete Assets - newer and better products become available
 
 Market Value: Price of asset that a buyer is willing to pay
 
@@ -1634,8 +1683,8 @@ Working Capital
 - Insolvency (lack of working capital) is the largest cause of business failure
 
 - Liquidity - how easy an asset can be turned into cash
-> Cash deposits vs. Company vehicle
-> Debts from customers vs. Land
+  > Cash deposits vs. Company vehicle
+  > Debts from customers vs. Land
 
 Working Capital = Current Assets - Current Liabilities
 
@@ -1654,7 +1703,8 @@ Current Liabilities:
 The Working Capital Cycle - Expect Delays
 
            Cash
-   Sales          Production Costs 
+
+Sales Production Costs
 
 Current Ratio
 
@@ -1667,11 +1717,12 @@ Current Assets / Current Liabilities
 The Difference Between...
 
 - Cash vs. Profit
-> Consider trade credits where you record profit before receiving cash
+
+  > Consider trade credits where you record profit before receiving cash
 
 - Sales Revenues & Cash Inflows
-> Sales revenues only comes from customers (selling of inventory)
-> Cash inflows can come from selling off assets, bank loans, donations, grants, etc.
+  > Sales revenues only comes from customers (selling of inventory)
+  > Cash inflows can come from selling off assets, bank loans, donations, grants, etc.
 
 Reasons for Cash Flow Forecasts
 
@@ -1756,6 +1807,7 @@ Suppose the construction of a new sports compelx that costs $1 million is expect
 What is the payback period?
 
 Payback Period - Advantages
+
 - Simplest and quickest method
 - Useful for fimrs with cash flow proble s
 - Breka-even before capital needs to be replaced (useful esp. in today's fast-paced technology)
@@ -1763,11 +1815,13 @@ Payback Period - Advantages
 - Less prone to forecasting errors (short term)
 
 Payback Period - Disadvantages
+
 - Encourage a short-termism
 - Contribution each month not constant
 - Focuses on time, not on profits
 
 Average Rate of Return
+
 - Calculates the average profit on an investment project as a percentage of the amount invested
 - Average rate of return
 - Compared with the base interest rate
@@ -1803,12 +1857,14 @@ Discounting: reverse of calculating compound interest, using a discount factor
 
 NPV = Sum of Present Values - Cost of Investment
 
->[!check] Advantages
+> [!check] Advantages
+>
 > - helps managers to make more informed decisions
 > - more realistic than the ARR, especially for projects that are medium to long term
 > - more informed comparisons between projects of varying durations
 
->[!fail] Disadvantages
+> [!fail] Disadvantages
+>
 > - discount rate (discount factor) can be subjective at times - interest rate and/or inflation rate can vary significantly over the course of an investment project
 
 Quantitative
@@ -1828,6 +1884,7 @@ E - External Shocks
 # Unit 3.9 - Budgeting
 
 Cost & Profit Centres
+
 - a department or unit of a business that incurs costs but is not involved in earning any profit
 - each unit need to be aware and accountable for their contribution towards the org's costs
 - a manager is likely assigned to monitor
@@ -1836,21 +1893,25 @@ Cost & Profit Centres
 - produce independent profit & loss accounts
 
 Cost & Profit Centres are often organized by:
+
 1. Function: Finance, Human Resources, Marketing
 2. Product: Basketball, Golf, Soccer, Track (Nike)
-Geography: Canada, UK, China (McDonalds)
+   Geography: Canada, UK, China (McDonalds)
 
 Main Roles of Cost & Profit Centres:
+
 1. Organization & Control Function
 2. Autonomy Function
 3. Motivating Function
 4. Accountability Function
 
 Budgeting
+
 - a financial plan of expected revenue nad expenditure for an organization or department for a given time period
 - an essential part of managing business organizations and shoujld be in line with the aims of the business
 
 Types of Budgeting:
+
 1. Flexible Budgets
 2. Incremental Budgets
 3. Marketing Budgets
@@ -1860,6 +1921,7 @@ Types of Budgeting:
 7. Zero Budgeting
 
 Considerations when Constructing a Budget:
+
 - Benchmarking Data
 - Negotiations
 - Organizational Objectives
@@ -1908,6 +1970,7 @@ Key concept: Sustainability
 Name of organization: Toyota
 
 (including the Business Management Toolkit):
+
 - Sustainability and the triple bottom line (featured in the TSM)
 - Business Management Toolkit: Ansoff's Matrix
 - Unit \_\_\_, etc.
@@ -1917,6 +1980,7 @@ Name of organization: Toyota
 Needs & Wants: **Marketing exists to address people's needs and wants**
 
 Psychology behind decisions
+
 - Price
 - Color
 - Size
@@ -1925,6 +1989,7 @@ Psychology behind decisions
 - Convenience
 
 The 4 P's
+
 - **P**roducts
 - **P**rice
 - **P**lace
@@ -1940,6 +2005,7 @@ Product-->|4 P's|Decision
 ```
 
 Marketing Skills
+
 - Management skills
 - Decision-making skills
 - Identifying needs & wants
@@ -1947,8 +2013,8 @@ Marketing Skills
 - Providing customer service/experience
 - Earning a profit or surplus
 
->[!note] Market Orientation
->A marketing approach that focuses on making products that they can sell, rather than selling products that they can make. The focus is on the customer's needs and wants.
+> [!note] Market Orientation
+> A marketing approach that focuses on making products that they can sell, rather than selling products that they can make. The focus is on the customer's needs and wants.
 
 Greater Flexibility & Lower Risk High Costs for Market Research
 
@@ -1957,23 +2023,28 @@ Product Orientation - This approach focuses on selling products that they make, 
 Ability to Hike Price, More Control over Operations, High Failure Rate
 
 Commercial Marketing
+
 - to meet the needs and wants of customers in a profitable way
 - ethics play a small role
 
 Social Marketing
+
 - designed to bring about social change using concepts from commercial marketing
 
->## Market Share
->$$\frac{\text{firm's sale revenue}}{\text{industry's sale revenue}}\times 100$$
+> ## Market Share
+>
+> $$\frac{\text{firm's sale revenue}}{\text{industry's sale revenue}}\times 100$$
 
 Market Concentration
+
 - Top 5 smartphone companies has 69% of the market
 
 > ## Market Growth
 >
->$$\frac{\text{Current Market Size - Original Market Size(\$)}}{\text{Original Market Size(\$)}}\times 100$$
+> $$\frac{\text{Current Market Size - Original Market Size(\$)}}{\text{Original Market Size(\$)}}\times 100$$
 
 Market Leadership - the position of a business having the largest market share in a given market for a particular good or service
+
 - Sports Apparel
 - E-Commerce
 - Aircraft Manufacturing
@@ -1981,6 +2052,7 @@ Market Leadership - the position of a business having the largest market share i
 - Fast Food Chain
 
 > [!success] Advantages:
+>
 > - Premium prices
 > - Lower production costs
 > - Longer product life cycles
@@ -1991,6 +2063,7 @@ Market Leadership - the position of a business having the largest market share i
 ## Market Research
 
 Using existing information -> Secondary research:
+
 - Market analyses
 - Academic journals
 - Government publications
@@ -1998,6 +2071,7 @@ Using existing information -> Secondary research:
 - Other online content
 
 Creating new information -> Primary research:
+
 - Surveys
 - Interviews
 - Focus groups
@@ -2006,44 +2080,54 @@ Creating new information -> Primary research:
 ### Primary Research - gathering new data first-hand for a specific purpose
 
 Surveys/Questionnaires
+
 - a specific series of questions, aimed ot avoid bias with objective wording
 - up-to-date and unique data
 - costly & time-consuming
 
 Interviews
+
 - one-on-one discussions to investigate personal cirucmstances and opinions
 - belief, attitudes, feelings can be examined in detail
 - non-quantifiable info; difficult to analyze
 
 Focus Groups
+
 - small discussion groups to gain insight into attitudes and behavior of respondents
 - group tend to share similar customer profile (ie. teenaged online gamers)
 
 Observations
+
 - involves watching how people behave and respond in different situations
 - can be done in a controlled environment or in real life
 
 Market Analyses
+
 - characteristics and outlook (trends) for a product or industry (ie. market size, market share, growth rate)
 
 Academic Journals
+
 - periodical publications from educational and research institutions
 - written by industry experts and academics
 
 Government Publications
+
 - census, social trends, labor market developments, trade statistics, unemployment figures, inflation rates
 
 Media Articles
+
 - newspapers, business-related journals/magazines, documentaries, books, websites
 
 Primary Research
 
 Uses
+
 - Provides direct information about customers' tastes and preferences.
 - Provide sinformation about reasons for purchases.
 - Provide sunique information that can give a competitive advantage.
 
 Limitations
+
 - Can be expensive and time-consuming to carry out.
 - Staff may need training to carry out the research.
 - Can be difficult to construct effective questions and experiments.
@@ -2051,11 +2135,13 @@ Limitations
 ### Secondary Research
 
 Uses
+
 - Provides information at lower cost than primary research.
 - Provides broader contextual information about the whole economy, population or general trends.
 - Published information is often already available.
 
 Limitations
+
 - The business must rely on the research methods of others.
 - Information that the business wants may not exist
 - Existing information may not be fit for the business' purpose; it coudl relate to a different issue, different subject or different target market.
@@ -2073,15 +2159,18 @@ Stratified Sampling - choosing a number of respondents frmo each stratum (segmen
 ### Results from Data Collection
 
 Non-Sampling Errors
+
 - Human error or behavior
 
 Sampling Errors
+
 - Sample size too small
 - Sample size not respresentative of population
 - Inappropriate sampling method used
 - Bias in the research
 
 Presentation of Data
+
 - Bar charts
 - Pie charts
 - Line graphs
@@ -2092,6 +2181,7 @@ Presentation of Data
 Ethical Consniderations of Market Research
 
 5D's
+
 - Damage
 - Deceitful
 - Deceptive

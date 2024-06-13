@@ -5,7 +5,7 @@ The Traditional governments of Peru were either republics or [[Military Dictator
 One of the more important civilian leaders was [[TN Peru's Leaders Belaunde Terry & Velasco Alvarado| Fernando Belaunde Terry]]. In the 1960s, Belaunde introduced a series of socialist reforms, like banning labor actions (strikes), phasing out economic assistance for food and fuel and even introduced Russian advisors. When he returned for a second term, some of these socialist ideas gave way to inherited enterprise (capitalism).
 
 > Some of the economic problems that President Belaunde and other leaders faced were:
-> 
+>
 > 1. Need of land reforms
 > 2. Foreign control of resources
 > 3. National Debt
@@ -31,12 +31,14 @@ In general Burns concludes that, [[Military Dictatorships and Government|militar
 Left wing urban guerrillas have always been a problem in countries like Peru. Although the leadership of these guerrillas movements rests with Marxist intellectuals, their bases of support is with the Peruvian experiences and Incan past. The **Shining Path** or **Sendero Luminoso** was a splinter party of the Peruvian Communist Party in 1870, organized by [[Peru - Democracy and Retreat#^a1a82d|Abimael Guzman]]. It would be the Indian leader, **Jose Carlos Mariategui (1895-1930)** who said about revolution: revolution is the shining path of liberation.
 
 The Shining Path or SPM denounced these major ideas:
+
 - Imperialism of the USSR & US
 - Capitalism (US/Western Europe)
 - Bureaucratic/Revisionist (PRC/USSR)
 - International centers of communism (USSR & China)
 
 The major problems with the economy of Peru were:
+
 - 80 per 1000 in the infant mortality rates (1991)
 - 55% of people lived below the poverty line (1992)
 - Calorie and protein dropped 30% (1980s)
@@ -44,6 +46,7 @@ The major problems with the economy of Peru were:
 - Civil war kills 25000 people
 
 Society had to be a society of "great harmony", On page 327, use the quotes to determine a list of the characteristics of a Shining Path or SPM society
+
 - without exploited nor exploiters,
 - without oppressed nor oppressors,
 - without classes, nor State,

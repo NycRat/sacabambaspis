@@ -1,19 +1,20 @@
 # Heading 1
+
 ## Heading 2
+
 ### Heading 3
+
 #### Heading 4
+
 ##### Heading 5
+
 ###### Heading 6
 
-#tag_1 
+#tag_1
 
->Blockquote
->==Highlight==
->~~Strikethrough Blockquote~~
->**Bold Blockquote**
->*Italics Blockquote*
->***Bold Italics Blockquote***
->`Blockquote Inline Code`
+> Blockquote
+> ==Highlight==
+> ~~Strikethrough Blockquote~~ >**Bold Blockquote** >_Italics Blockquote_ >**_Bold Italics Blockquote_** >`Blockquote Inline Code`
 
 ```
 Code Blocks
@@ -25,8 +26,8 @@ Normal
 ==Highlight==
 ~~Strikethrough~~
 **Bold**
-*Italics*
-***Bold Italics***
+_Italics_
+**_Bold Italics_**
 `Inline Code`
 
 - Unnumbered lists
@@ -40,7 +41,6 @@ Normal
 - [ ] Task list
 - [ ] Task list
 - [ ] Task list
-
 
 ---
 
@@ -64,57 +64,56 @@ Big Footnote[^bignote]
 
 # Callouts
 
->[!note] 
+> [!note]
 
->[!summary] 
+> [!summary]
 
->[!abstract] 
+> [!abstract]
 
->[!tldr] 
+> [!tldr]
 
->[!info] 
+> [!info]
 
->[!todo] 
+> [!todo]
 
->[!tip] 
+> [!tip]
 
->[!hint] 
+> [!hint]
 
->[!important] 
+> [!important]
 
->[!success] 
+> [!success]
 
->[!check] 
+> [!check]
 
->[!done] 
+> [!done]
 
->[!question] 
+> [!question]
 
->[!Help] 
+> [!Help]
 
->[!faq] 
+> [!faq]
 
->[!warning] 
+> [!warning]
 
->[!caution] 
+> [!caution]
 
->[!attention] 
+> [!attention]
 
->[!failure] 
+> [!failure]
 
->[!fail] 
+> [!fail]
 
->[!missing] 
+> [!missing]
 
->[!danger] 
+> [!danger]
 
->[!error] 
+> [!error]
 
->[!bug] 
+> [!bug]
 
->[!example] 
+> [!example]
 
->[!quote] 
+> [!quote]
 
->[!cite] 
-
+> [!cite]

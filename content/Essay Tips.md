@@ -7,6 +7,6 @@ Main Claim: \_\_\_\_\_\_\_\_\_\_\_\_\_ FORCE VIA PROPAGANDA & CENSORSHIP
 read the question more than once
 make first sentence highlight arguebable
 
->ignore the discuss, just take a stance
+> ignore the discuss, just take a stance
 
 〉conclusion， adress the quesiton

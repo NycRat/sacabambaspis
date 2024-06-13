@@ -1,7 +1,6 @@
->[!tip] Further readings
+> [!tip] Further readings
 >
->[[The End of Poverty]]
->[[Economic Stagnation]]
+> [[The End of Poverty]] >[[Economic Stagnation]]
 
 # Economic Stagnation
 
@@ -17,9 +16,9 @@ Although independence was achieved by 1824 and most countries adopted the politi
 
 ## Summary of [[Latin America - Economic Problems]]
 
-1. Latin America depends on the export model, or cash crop, for revenue. This places the emphasis on export, manufactured goods, and importation of food. Land is used for cash crops (i.e. coffee and work for wages). They do not/cannot grow food to feed themselves. 
-2. The economic "trickle down" theory, where wealth trickles down from the rich to the poor through wages, has not worked. Latin America has produced two nations with an unequal distribution of wealth: the very rich and the very poor. 
-3. Latin American economies are very dependent on the United States and multinational companies. The result is a dependent or reflex economy. It is at risk to the whims of other economies. This model produces staggering poverty. 
-4. The development of urban areas and mega cities over the rural areas produces massive urbanization and population explosions. This leads to the growth of the urban poor (Favelas). 
-5. Various governments, be they dictatorships or republics, have not been able to deal with land reform. Without land, people can't grow food for subsistence or profit; thus, they live in poverty. 
+1. Latin America depends on the export model, or cash crop, for revenue. This places the emphasis on export, manufactured goods, and importation of food. Land is used for cash crops (i.e. coffee and work for wages). They do not/cannot grow food to feed themselves.
+2. The economic "trickle down" theory, where wealth trickles down from the rich to the poor through wages, has not worked. Latin America has produced two nations with an unequal distribution of wealth: the very rich and the very poor.
+3. Latin American economies are very dependent on the United States and multinational companies. The result is a dependent or reflex economy. It is at risk to the whims of other economies. This model produces staggering poverty.
+4. The development of urban areas and mega cities over the rural areas produces massive urbanization and population explosions. This leads to the growth of the urban poor (Favelas).
+5. Various governments, be they dictatorships or republics, have not been able to deal with land reform. Without land, people can't grow food for subsistence or profit; thus, they live in poverty.
 6. Poverty in-turn sows the seeds of revolution — [[8 Stages of Revolution|Stage One of a revolution]].
